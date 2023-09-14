@@ -3,4 +3,4 @@ __pycache__/
 *.nii.gz
 *bval
 *bvec
-*.pth
+# *.pth
