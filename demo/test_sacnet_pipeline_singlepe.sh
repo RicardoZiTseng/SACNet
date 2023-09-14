@@ -1,5 +1,5 @@
-export SACNetScriptDir="sacnet_v1.0.0/pipeline"
-datadir="sacnet_v1.0.0/demo/data/cbdp"
+export SACNetScriptDir="SACNet/pipeline"
+datadir="SACNet/demo/data/cbdp"
 
 ${SACNetScriptDir}/sacnet_pipeline_singlepe.sh --vols=${datadir}/data.nii.gz \
                                                --bvecs=${datadir}/bvec \

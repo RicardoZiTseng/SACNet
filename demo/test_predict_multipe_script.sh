@@ -1,5 +1,5 @@
-export SACNetScriptDir="sacnet_v1.0.0/pipeline"
-datadir="sacnet_v1.0.0/demo/data/hcp"
+export SACNetScriptDir="SACNet/pipeline"
+datadir="SACNet/demo/data/hcp"
 
 ${SACNetScriptDir}/sacnet_predict_multipe.sh --pos_b0=${datadir}/Pos_b0.nii.gz \
                                              --neg_b0=${datadir}/Neg_b0.nii.gz \

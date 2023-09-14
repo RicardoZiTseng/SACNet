@@ -1,5 +1,5 @@
-export SACNetScriptDir="sacnet_v1.0.0/pipeline"
-datadir="sacnet_v1.0.0/demo/data/cbdp"
+export SACNetScriptDir="SACNet/pipeline"
+datadir="SACNet/demo/data/cbdp"
 
 ${SACNetScriptDir}/sacnet_predict_singlepe.sh --b0=${datadir}/b0.nii.gz \
                                              --t2=${datadir}/T2w.nii.gz \

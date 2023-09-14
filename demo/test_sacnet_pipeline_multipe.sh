@@ -1,5 +1,5 @@
-export SACNetScriptDir="sacnet_v1.0.0/pipeline"
-datadir="sacnet_v1.0.0/demo/data/hcp"
+export SACNetScriptDir="SACNet/pipeline"
+datadir="SACNet/demo/data/hcp"
 
 ${SACNetScriptDir}/sacnet_pipeline_multipe.sh --pos_vols=${datadir}/Pos.nii.gz \
                                               --pos_bvecs=${datadir}/Pos.bvec \
