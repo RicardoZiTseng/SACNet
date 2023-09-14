@@ -1,0 +1,9 @@
+{
+    "Diffusion": {
+        "voxelsize": [1.25, 1.25, 1.25],
+        "TE": 89.5,
+        "TR": 5520,
+        "dimension": [145, 174, 145],
+        "direction": "LR, RL"
+    }
+}

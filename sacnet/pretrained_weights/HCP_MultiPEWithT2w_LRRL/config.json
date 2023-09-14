@@ -1,0 +1,15 @@
+{
+    "T2w": {
+        "voxelsize": [0.7, 0.7, 0.7],
+        "TE": 565,
+        "TR": 3200,
+        "dimension": [260, 311, 260]
+    },
+    "Diffusion": {
+        "voxelsize": [1.25, 1.25, 1.25],
+        "TE": 89.5,
+        "TR": 5520,
+        "dimension": [145, 174, 145],
+        "direction": "LR, RL"
+    }
+}
