@@ -341,4 +341,5 @@ Other commands work similarly:
 
 # **4. Some other information**
 - We provide examples of CBD and HCP dataset for user testing in `./demo`.
+  - We uploaded the example data at https://figshare.com/account/articles/24145128. Please download and unpackage it, then put it at `./demo`.
 - We also provide the subject IDs of the test set in the HCP dataset in `./demo/hcp_test_id.txt`.
