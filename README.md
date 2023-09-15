@@ -17,7 +17,7 @@
 
 This repository provides the official implementation of our paper "SACNet: A Multiscale Diffeomorphic Convolutional Registration Network with Prior Neuroanatomical Constraints for Flexible Susceptibility Artifact Correction in Echo Planar Imaging". **If you are using *SACNet* for your research, please cite our paper!**
 
-Created by Zilong Zeng at State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University. **For any questions, please contact Dr.Zeng (zilongzeng@mail.bnu.edu.cn) or Dr.Zhao (tengdazhao@bnu.edu.cn).**
+Created by Zilong Zeng at State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University. **For any questions, please contact Zilong Zeng (zilongzeng@mail.bnu.edu.cn) or Dr.Zhao (tengdazhao@bnu.edu.cn).**
 
 
 # **Contents**
@@ -341,5 +341,5 @@ Other commands work similarly:
 
 # **4. Some other information**
 - We provide examples of CBD and HCP dataset for user testing in `./demo`.
-  - We uploaded the example data at https://figshare.com/account/articles/24145128. Please download and unpackage it, then put it at `./demo`.
+  - We uploaded the example data at https://doi.org/10.6084/m9.figshare.24145128.v1. Please download and unpackage it, then put it at `./demo`.
 - We also provide the subject IDs of the test set in the HCP dataset in `./demo/hcp_test_id.txt`.
