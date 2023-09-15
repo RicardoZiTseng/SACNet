@@ -58,7 +58,7 @@ Susceptibility artifacts (SAs), which are inevitable for modern diffusion brain 
 ### **2.1.1. Python packages installation**
 Please run the following commands for installing related python packages:
   ```bash
-  pip install art==5.3 nibabel==3.2.1 matplotlib==3.3.4 batchgenerators==0.23 pytorch==1.9.1
+  pip install art==5.3 nibabel==3.2.1 matplotlib==3.3.4 batchgenerators==0.23 torch==1.9.1
   ```
 Then install SACNet:
   ```bash
