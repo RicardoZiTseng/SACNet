@@ -19,6 +19,7 @@ This repository provides the official implementation of our paper "SACNet: A Mul
 
 Created by Zilong Zeng at State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University. **For any questions, please contact Zilong Zeng (zilongzeng@mail.bnu.edu.cn) or Dr.Zhao (tengdazhao@bnu.edu.cn).**
 
+Now released at https://www.biorxiv.org/content/10.1101/2023.09.15.557874v1.
 
 # **Contents**
 - [**SACNet: Learning-Based Susceptibility Artifact Correction**](#sacnet-learning-based-susceptibility-artifact-correction)
